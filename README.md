@@ -100,7 +100,7 @@
 ### 💼 Experience Highlights
 
 **Mcgen Digital** · Claude Code Developer
-<br/><sub>Jul 2026 – Present · Working with John McCarthy</sub>
+<br/><sub>Dec 2025 – Present · Working with John McCarthy</sub>
 
 - Built an AI-powered command-center dashboard that gives a client one view across their portfolio of businesses.
 - Shipped a custom CRM for a New Zealand lead generation firm.
@@ -119,7 +119,7 @@
 `Python` `n8n` `Zapier` `VAPI` `Twilio` `TNZ` `Supabase` `Zoho CRM` `Google Sheets`
 
 **Plumbers Stock** · Claude Code Developer
-<br/><sub>Feb 2026 – Jun 2026</sub>
+<br/><sub>Feb 2025 – Jun 2026</sub>
 
 - Built an inventory dashboard for the Plumbers Stock team.
 - Built data-visualization dashboards in Looker Studio and Python that gave the marketing team insight they didn't have before.
