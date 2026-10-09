@@ -99,16 +99,15 @@
 
 ### 💼 Experience Highlights
 
-**Mcgen Digital & Plumbers Stock** · Claude Code Developer
-<br/><sub>Feb 2026 – Present · At Mcgen Digital, working with John McCarthy</sub>
+**Mcgen Digital** · Claude Code Developer
+<br/><sub>Jul 2026 – Present · Working with John McCarthy</sub>
 
 - Built an AI-powered command-center dashboard that gives a client one view across their portfolio of businesses.
 - Shipped a custom CRM for a New Zealand lead generation firm.
 - Built a second command center for an Australian solar energy company.
 - Audit and maintain the AI lead systems Mcgen Digital runs for its clients: voice agents, n8n workflows, Cal.com booking and SMS follow-up.
-- Built an inventory dashboard for Plumbers Stock.
 
-`Claude Code` `React` `Next.js` `TypeScript` `Python` `Claude API` `n8n` `VAPI`
+`Claude Code` `React` `Python` `Claude API` `n8n` `VAPI` `Cal.com`
 
 **AI Automation Consultant**
 <br/><sub>Freelance · Jun 2024 – Present</sub>
@@ -118,6 +117,14 @@
 - Built a sales knowledge base on Supabase and n8n that suggests email replies inside Zoho CRM.
 
 `Python` `n8n` `Zapier` `VAPI` `Twilio` `TNZ` `Supabase` `Zoho CRM` `Google Sheets`
+
+**Plumbers Stock** · Claude Code Developer
+<br/><sub>Feb 2026 – Jun 2026</sub>
+
+- Built an inventory dashboard for the Plumbers Stock team.
+- Built data-visualization dashboards in Looker Studio and Python that gave the marketing team insight they didn't have before.
+
+`Claude Code` `Next.js` `TypeScript` `Python` `Looker Studio`
 
 **Simpliscale** · AI Agent Developer
 <br/><sub>Jan 2025 – Nov 2025</sub>
