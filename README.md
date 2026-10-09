@@ -59,7 +59,8 @@
         <li>Step-by-step rollout plan</li>
       </ul>
       <b>Format:</b> one-off engagement<br/>
-      <b>Best for:</b> teams that want a plan before committing to a build
+      <b>Best for:</b> teams that want a plan before committing to a build<br/>
+      <b>Investment:</b> from $1,000
     </td>
     <td width="33%" valign="top">
       <h4>⭐ Embedded Automation Engineer</h4>
@@ -73,7 +74,8 @@
         <li>Direct line in your Slack or email</li>
       </ul>
       <b>Format:</b> monthly retainer<br/>
-      <b>Best for:</b> businesses running live automations that need ongoing builds and care
+      <b>Best for:</b> businesses running live automations that need ongoing builds and care<br/>
+      <b>Investment:</b> from $2,500 / month
     </td>
     <td width="33%" valign="top">
       <h4>🏗️ Done-for-You Build</h4>
@@ -87,48 +89,44 @@
         <li>Documentation and handover</li>
       </ul>
       <b>Format:</b> fixed-scope project<br/>
-      <b>Best for:</b> teams with a defined project and a deadline
+      <b>Best for:</b> teams with a defined project and a deadline<br/>
+      <b>Investment:</b> custom quote per project
     </td>
   </tr>
 </table>
 
-<p align="center"><i>Every engagement is quoted after a free 30-minute <a href="https://calendly.com/raffymcfee/30min">discovery call</a>.</i></p>
+<p align="center"><i>Not sure which fits? Start with a free 30-minute <a href="https://calendly.com/raffymcfee/30min">discovery call</a>.</i></p>
 
 ### 💼 Experience Highlights
 
-**Mcgen Digital** · AI Automation & Voice AI Engineer
-<br/><sub>Freelance · 2026 – Present · Working with John McCarthy</sub>
-
-- Built Zac, an inbound and outbound AI voice agent for New Zealand and Australian leads, handling high-volume calls on the BookedIn.ai platform.
-- Built an AI lead reactivation system with VAPI, Twilio, TNZ and n8n that calls and texts dormant leads back into the pipeline.
-- Audit and maintain the AI lead systems Mcgen runs for its clients: voice agents, n8n workflows, Cal.com booking and SMS follow-up.
-
-`VAPI` `Retell` `n8n` `Twilio` `TNZ` `Cal.com` `Claude Code`
-
-**Claude Code Developer**
-<br/><sub>Feb 2026 – Present</sub>
+**Mcgen Digital & Plumbers Stock** · Claude Code Developer
+<br/><sub>Feb 2026 – Present · At Mcgen Digital, working with John McCarthy</sub>
 
 - Built an AI-powered command-center dashboard that gives a client one view across their portfolio of businesses.
 - Shipped a custom CRM for a New Zealand lead generation firm.
 - Built a second command center for an Australian solar energy company.
+- Audit and maintain the AI lead systems Mcgen Digital runs for its clients: voice agents, n8n workflows, Cal.com booking and SMS follow-up.
+- Built an inventory dashboard for Plumbers Stock.
 
-`Claude Code` `React` `Python` `Claude API`
+`Claude Code` `React` `Next.js` `TypeScript` `Python` `Claude API` `n8n` `VAPI`
 
 **AI Automation Consultant**
 <br/><sub>Freelance · Jun 2024 – Present</sub>
 
 - Automate workflows, build data pipelines and turn raw data into insight for businesses and e-commerce brands.
+- Built an AI lead reactivation system with VAPI, Twilio, TNZ and n8n that brings dormant leads back into the pipeline.
 - Built a sales knowledge base on Supabase and n8n that suggests email replies inside Zoho CRM.
 
-`Python` `n8n` `Zapier` `Supabase` `Zoho CRM` `Google Sheets`
+`Python` `n8n` `Zapier` `VAPI` `Twilio` `TNZ` `Supabase` `Zoho CRM` `Google Sheets`
 
 **Simpliscale** · AI Agent Developer
 <br/><sub>Jan 2025 – Nov 2025</sub>
 
 - Built an AI receptionist for roofing companies that handles both inbound and outbound calls.
+- Built Zac, an outbound AI voice agent that handles high-volume calling on the BookedIn.ai platform.
 - Lifted lead conversions by 70–80%, improved response rates and cut missed calls.
 
-`Voice AI` `AI Receptionist` `Inbound & Outbound Calls`
+`Voice AI` `AI Receptionist` `Outbound Calling` `BookedIn.ai`
 
 **Lead Generation Specialist**
 <br/><sub>Freelance · Dec 2024 – Feb 2025</sub>
